@@ -1,0 +1,27 @@
+.body{
+margin:0
+}
+
+.side{
+width: 15%;
+background: url('фон.gif');
+margin:0
+}
+
+.vverx{
+width: 70%;
+height: 28%;
+background-color: #000000;
+text-align: center;
+vertical-align: middle;
+padding-top: 10px
+}
+
+.nevverx {
+background-color:#FFD497;
+height:72%; 
+vertical-align: top;
+}
+
+
+
